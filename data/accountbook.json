@@ -1,0 +1,12 @@
+{
+    "book": [{
+        "categoryNum": 1,
+        "amount": 21.2,
+        "month": 11,
+        "year": 2021,
+        "description": "hahaha",
+        "day": 20
+    }],
+    "expectedExpense": 0,
+    "alerting": false
+}

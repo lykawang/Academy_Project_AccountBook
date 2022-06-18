@@ -1,0 +1,22 @@
+{
+    "book": [
+        {
+            "categoryNum": 2,
+            "amount": 98.22,
+            "month": 1,
+            "year": 2021,
+            "description": "BILL1",
+            "day": 31
+        },
+        {
+            "categoryNum": 2,
+            "amount": 100.02,
+            "month": 8,
+            "year": 2021,
+            "description": "BILL2",
+            "day": 28
+        }
+    ],
+    "expectedExpense": 0,
+    "alerting": false
+}
